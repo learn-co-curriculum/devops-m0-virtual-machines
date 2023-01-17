@@ -33,7 +33,7 @@ That being said, it's not all rainbow and sunshine with virtual machines; they h
 
 This makes virtual machines particularly useful for **cloud computing**. Cloud vendors typically offer resources online on a pay-as-you-go model; virtual machines vastly facilitate this by allowing vendors to separate a machine based off individual client demands. This means vendors can quickly and easily scale their computing resources up or down as needed, without the need to purchase and maintain physical hardware.
 
-![virtualization](/Users/jfaz/Documents/curriculums/devops-general/m0/devops-m0-virtual-machines/virtualization.png)
+![virtualization](https://curriculum-content.s3.amazonaws.com/6685/devops-m0-virtual-machines/virtualization.png)
 
 ## Setting up a virtual machine
 
