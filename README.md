@@ -25,7 +25,7 @@ The ability to isolate an entire system gives users a lot of advantages, includi
 - **Running incompatible software:** You can run other operating systems in virtual machines, allowing you to make use of software available only in a specific OS.
 - **Compartmentalization**: Virtual machines allow you to split up a host system into multiple guest systems, allowing for clean separation between them.
 
-That being said, it's not all rainbow and sunshine with virtual machines; they have some disadvantages as well:
+That being said, it's not all rainbows and sunshine with virtual machines; they have some disadvantages as well:
 
 - **Performance**: Virtual machines typically do not perform as well as their host computer due to the overhead that comes with virtualization. The difference depends on the virtualization technologies being used.
 - **Complexity**: Setting up and managing virtual machines can be complex and time-consuming, and if you have to allocate resources ahead-of-time, adds a non-negligible amount of mental overhead
