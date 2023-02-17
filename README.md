@@ -39,9 +39,9 @@ This makes virtual machines particularly useful for **cloud computing**. Cloud v
 
 In our case, since our host computers are most likely *not* running *Linux*, we will be making use of virtual machines to gain access to a fully-featured server *Linux* distribution. In the case you are actually running *Linux*, you should still use a virtual machine to keep all the services contained instead of polluting your personal computer with services only needed for this course.
 
-If you are using *Windows*, *Mac* (*Intel*), or *Linux* desktop, please follow the **Virtualbox** installation guide.
+If you are using *Windows*, *Mac* (*Intel*), or *Linux* desktop, please follow the **64-bit setup** installation guide.
 
-If you are using an *Apple*-silicon *Mac* (M1, M2, etc.), please follow the **Tart** installation guide.
+If you are using an *Apple*-silicon *Mac* (M1, M2, etc.), please follow the **Apple-Silicon** installation guide.
 
 Mac users can verify what type of Mac they have by clicking the Apple logo and selecting `About This Mac`. If it doesn't say `Apple` under chip, then you have an Intel Mac.
 
