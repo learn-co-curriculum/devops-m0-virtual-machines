@@ -8,7 +8,7 @@
 
 ## Introduction
 
-A **virtual machine**, as the name implies, is virtual; in other words, it's not a physical machine. Virtual machines are created using **virtualization**, which simply means creating a virtual version of something, in this case, a full-fledged computer system. Virtual machines are utilized throughout the industry for all sorts of applications, and we will be making extensive use of them in this course.
+A **virtual machine**, as the name implies, is virtual; in other words, it's not a physical machine. Virtual machines are created using a process known as **virtualization**, which simply creates a virtual version of something, in this case, a full-fledged computer system. Virtual machines are utilized throughout the industry for all sorts of applications, and we will be making extensive use of them in this course.
 
 Virtual machines have been around since the 1960s, thanks largely to *IBM's* development of logical partitions, which allowed a single computer mainframe to run multiple instances of operating systems simultaneously. 
 
